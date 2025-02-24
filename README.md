@@ -1,4 +1,3 @@
 # LCOT-022
-I made changes to the two files
 A repository to keep LCOT2000 labs code.
- 
+This repo contains lab 4 and lab 5 code.
